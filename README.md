@@ -8,7 +8,8 @@ This project is an anti-drunk driving car safety system developed using an Ardui
 - Alcohol sensor
 - Buzzer
 - Relay module
-
+- bread board
+- wire and led
 ## How It Works
 1. The alcohol sensor continuously monitors the alcohol levels in the vicinity of the driver.
 2. If alcohol is detected above a certain threshold, the buzzer is triggered to alert the driver.
